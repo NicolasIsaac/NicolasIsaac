@@ -1,16 +1,37 @@
-## Hi there 👋
+# Me chamo Nicolas Isaac 
 
-<!--
-**NicolasIsaac/NicolasIsaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Engenharia de Software**, atualmente no 6º período, com interesse em desenvolvimento backend e na área de dados.
 
-Here are some ideas to get you started:
+Busco aprofundar meus conhecimentos e desenvolver soluções por meio de projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Estudos e desenvolvimento
+
+Atualmente, venho aprofundando meus conhecimentos em:
+
+- Qualidade de software e fundamentos de testes.
+- Computação em nuvem.
+- Análise e gerenciamento de riscos.
+- Desenvolvimento backend.
+- Banco de dados e manipulação de dados.
+- Fundamentos de desenvolvimento web.
+
+## 💻 Tecnologias
+
+**Linguagens e desenvolvimento:**
+
+- Java
+- Python
+- C#
+- HTML
+- CSS
+- JavaScript
+
+**Tecnologias e ferramentas:**
+
+- SQL
+- Git
+- GitHub
+
+## 📫 Contato
+
+- **LinkedIn:** [linkedin.com/in/nicolas-isaac-pinto-de-jesus](https://www.linkedin.com/in/nicolas-isaac-pinto-de-jesus/)
